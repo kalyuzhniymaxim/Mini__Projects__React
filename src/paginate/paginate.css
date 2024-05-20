@@ -1,0 +1,9 @@
+.App {
+    overflow: scroll;
+    height: 400px;
+    width: 500px;
+}
+
+.App li{
+    margin: 30px;
+}
